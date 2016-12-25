@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Redact Sports",
+  "description": "This extension redacts all words it suspects of being sports-related to improve your browsing experience",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "sports-icon.png",
+  },
+  "permissions": [
+  ]
+}
